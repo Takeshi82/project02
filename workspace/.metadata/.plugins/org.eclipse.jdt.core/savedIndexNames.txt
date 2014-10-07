@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+/home/student/j6312040/Desktop/project02/workspace/.metadata/.plugins/org.eclipse.jdt.core
+335547406.index
